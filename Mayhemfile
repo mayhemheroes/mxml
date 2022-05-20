@@ -1,0 +1,6 @@
+project: rnshah9/mxml
+target: mxml
+
+cmds:
+  - cmd: /repo/testmxml @@
+    filepath: /test.xml
