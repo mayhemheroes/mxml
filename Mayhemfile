@@ -1,5 +1,5 @@
 project: rnshah9/mxml
-target: mxml
+target: testmxml
 
 cmds:
   - cmd: /repo/testmxml @@
