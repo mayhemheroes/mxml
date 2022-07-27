@@ -2,4 +2,4 @@ project: mxml
 target: testmxml
 
 cmds:
-  - cmd: @@ /test.xml
+  - cmd: /testmxml @@
